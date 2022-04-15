@@ -195,8 +195,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 Bhawna Batra             bhawnabatra107@gmail.com
+
 Ratul Das                ratuldas.das2002@gmail.com
+
 Anand upadhyay           anandupadhyay499@gmail.com
+
 sudheer bollapragada     sudheerbollapragada18@gmail.com
 
 
