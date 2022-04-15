@@ -41,7 +41,7 @@
     <b> project_description<b>
       <br>
    <p> 
-This project aims at using Autorickshaws as Ambulance which here plays the role of ambulance to reach out to victim and take them to nearest hospital/clinic as in emergency time is crucial and in remote areas ambulances are less so as alternative Autorickshaws can be a boon and act as life savior
+This project aims at a web project which ycan be run locally or deployed at cloud for storing memories we can add  update delete our storage and maintain memories
   </p>
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
