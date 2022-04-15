@@ -33,10 +33,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Auto Ambulance</h3>
 
   <p align="center">
     project_description
+    This project aims at using Auto as emergency which here plays the role of ambulance to reach out to victim and take them to nearest hospital /clinic as in             emergency time is crucial and in remote areas ambulances are less so as alternative rickshaws can be a boon and act as life savior  
+    
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -81,6 +83,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Auto drivers mobile will be having a app .whenever there is a emergency or accident person who sees victim or victim can dial this service  nearest auto driver will get notification as he sees he accepts it if declined immediately transfers to other driver 
+As he reaches out to hospital driver can share details with hospital authorities as the patient/relatives will pay for his  service 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
