@@ -192,9 +192,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+## Contact
+Bhawna Batra             bhawnabatra107@gmail.com
+Ratul Das                ratuldas.das2002@gmail.com
+Anand upadhyay           anandupadhyay499@gmail.com
+sudheer bollapragada     sudheerbollapragada18@gmail.com
+
+
+
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
