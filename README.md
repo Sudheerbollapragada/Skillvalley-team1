@@ -213,7 +213,7 @@ sudheer bollapragada           sudheerbollapragada18@gmail.com                ht
 
 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [](https://github.com/Sudheerbollapragada/Skillvalley-team1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
