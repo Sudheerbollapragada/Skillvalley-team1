@@ -194,13 +194,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 
 ## Contact
-Bhawna Batra                   bhawnabatra107@gmail.com    https://github.com/bhawna-107
+Bhawna Batra                   bhawnabatra107@gmail.com                       https://github.com/bhawna-107
 
-Ratul Das                      ratuldas.das2002@gmail.com
+Ratul Das                      ratuldas.das2002@gmail.com                     https://github.com/RatulD2
 
-Anand upadhyay                 anandupadhyay499@gmail.com
+Anand upadhyay                 anandupadhyay499@gmail.com                     https://github.com/anand-upadhyay499
 
-sudheer bollapragada           sudheerbollapragada18@gmail.com
+sudheer bollapragada           sudheerbollapragada18@gmail.com                https://github.com/Sudheerbollapragada
 
 
 
