@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="120" height="90">
   </a>
 
-<h3 align="center">Auto Ambulance</h3>
+<h3 align="center">Memories web App</h3>
 
   <p align="center">
     <b> project_description<b>
