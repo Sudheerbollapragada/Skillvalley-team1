@@ -19,7 +19,7 @@
 -->
 
 
-[![MIT License][license-shield]][https://github.com/Sudheerbollapragada/Skillvalley-team1/blob/9e0f546f173f062de7c43803a5f062d5691eee69/LICENSEl]
+[![MIT License][https://github.com/Sudheerbollapragada/Skillvalley-team1/blob/9e0f546f173f062de7c43803a5f062d5691eee69/LICENSE]
 
 
 
