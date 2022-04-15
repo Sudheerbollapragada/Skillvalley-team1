@@ -87,7 +87,7 @@ This project aims at using Autorickshaws as Ambulance which here plays the role 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Auto drivers mobile will be having a app .whenever there is a emergency or accident person who sees victim or victim can dial this service  nearest auto driver will get notification as he sees he accepts it if declined immediately transfers to other driver 
+This project aims at making auto work like an ambulance in reaching the accident victim in an emergency . This model proposes a web app solution which will be on auto drivers phone the auto driver needs to register through phone number in this portal and whenever there is a need a notification will popup to his phone  driver seeing notifcation accepts and he gets the location of victim if driver declines immediately notification alert sent to other driver 
 As he reaches out to hospital driver can share details with hospital authorities as the patient/relatives will pay for his  service 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
