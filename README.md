@@ -202,18 +202,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 
 ## Contact
-Bhawna Batra                   bhawnabatra107@gmail.com                       https://github.com/bhawna-107
+Bhawna Batra                    bhawnabatra107@gmail.com                     github     https://github.com/bhawna-107
 
-Ratul Das                      ratuldas.das2002@gmail.com                     https://github.com/RatulD2
+Ratul Das                       ratuldas.das2002@gmail.com                    github    https://github.com/RatulD2
 
-Anand upadhyay                 anandupadhyay499@gmail.com                     https://github.com/anand-upadhyay499
+Anand upadhyay                  anandupadhyay499@gmail.com                    github    https://github.com/anand-upadhyay499
 
-sudheer bollapragada           sudheerbollapragada18@gmail.com                https://github.com/Sudheerbollapragada
-
-
+sudheer bollapragada            sudheerbollapragada18@gmail.com                github    https://github.com/Sudheerbollapragada
 
 
-Project Link: [](https://github.com/Sudheerbollapragada/Skillvalley-team1)
+
+
+Project Link: (https://github.com/Sudheerbollapragada/Skillvalley-team1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
