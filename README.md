@@ -38,7 +38,7 @@
   <p align="center">
     project_description
     This project aims at using Auto as emergency which here plays the role of ambulance to reach out to victim and take them to nearest hospital /clinic as in             emergency time is crucial and in remote areas ambulances are less so as alternative rickshaws can be a boon and act as life savior  
-    
+  </p>
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
