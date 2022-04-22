@@ -43,6 +43,9 @@
    <p> 
 This project aims at a web project which ycan be run locally or deployed at cloud for storing memories we can add  update delete our storage and maintain memories
   </p>
+     
+      # UI of project
+     https://www.figma.com/file/orDLVxQsCigkMA3WbMpAWq/Untitled?node-id=0%3A1
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
