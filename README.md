@@ -6,10 +6,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-# ui of project 
-https://www.figma.com/file/orDLVxQsCigkMA3WbMpAWq/Untitled?node-id=0%3A1
-
-![Screenshot (667)](https://user-images.githubusercontent.com/40494619/164774283-bf6c88d6-e390-40f0-a367-ec84829c1804.png)
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -47,7 +43,10 @@ This project aims at a web project which ycan be run locally or deployed at clou
   </p>
      
 
+# ui of project 
+https://www.figma.com/file/orDLVxQsCigkMA3WbMpAWq/Untitled?node-id=0%3A1
 
+![Screenshot (667)](https://user-images.githubusercontent.com/40494619/164774283-bf6c88d6-e390-40f0-a367-ec84829c1804.png)
 
 
 
