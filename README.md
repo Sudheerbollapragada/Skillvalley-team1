@@ -41,7 +41,9 @@
    <p> 
 This project aims at a web project which ycan be run locally or deployed at cloud for storing memories we can add  update delete our storage and maintain memories
   </p>
-     
+    <!-- ABOUT THE PROJECT -->
+## About The Project
+This project aims at storing memories which can be audio video /visual as backup this project is made to have memories relived again we can add delete manage our memories
 
 # User interface (ui of project)
       
@@ -90,9 +92,7 @@ https://www.figma.com/file/orDLVxQsCigkMA3WbMpAWq/Untitled?node-id=0%3A1
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-This project aims at storing memories which can be audio video /visual as backup this project is made to have memories relived again we can add delete manage our memories
+
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
