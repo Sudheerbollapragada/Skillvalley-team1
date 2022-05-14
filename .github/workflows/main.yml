@@ -1,1 +1,18 @@
 
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
+        with:
+          heroku_api_key: ${{secrets.b1f8637a-a9ab-43b7-a85d-d4b6aaa6177c}
+          heroku_app_name: "memoriesapplication" 
+          heroku_email: "sudheerbollapragada18@gmail.com"
